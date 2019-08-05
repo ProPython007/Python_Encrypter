@@ -1,0 +1,7 @@
+Welcome at Simple Python File Encrypter  -by Sayan
+
+1. Place your file at Encrypter folder and run the exe to encrypt your file.
+
+2. Place your encrypted file at Decryptor folder and run the exe to decrypt your file with the generated key.
+
+For feedback & help contact at: ironnheart007@gmail.com
